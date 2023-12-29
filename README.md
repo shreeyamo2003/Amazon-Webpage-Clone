@@ -1,4 +1,3 @@
-![Screenshot 2023-12-29 185029](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/04fcb914-74f4-4dd9-9ff7-8eb0f18346b8)![Screenshot 2023-12-29 185011](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/fe12ce4f-a371-4883-b010-71654226811a)![Screenshot 2023-12-29 185011](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/08685b7c-2a79-4b7a-b787-8d84f040e860)# Amazon Webpage Clone
 First repository
 <br>
 Author: Shreeya Smita Mohanty
@@ -10,8 +9,16 @@ It's worth mentioning, though, that while this endeavor is a great way to hone w
 
 l free to use the provided files (index.html and style.css) and open them in your preferred integrated development environment (IDE) or coding software application.
 
-Fee![Screenshot 2023-12-29 184937](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/db0983c8-3b57-477e-b921-23c26902a219)![Screenshot 2023-12-29 185029](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/5dc96f03-9283-4c43-b948-a69647e786de)
-![Screenshot 2023-12-29 184937](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/3ee6933a-3050-462f-9cc7-ddc31b050329)
-![Screenshot 2023-12-29 185029](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/936608e7-3225-4f7f-8c25-a0127d5d364e)
+![Screenshot 2023-12-29 184937](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/bc26484b-5d66-4daf-8a29-2f8d1cd44561)
+
+![Screenshot 2023-12-29 185011](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/108c0889-4bcd-429d-8159-18237a5a9cce)
+![Screenshot 2023-12-29 184937](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/f44015d9-9c57-46b0-a18a-5fe3030cd415)
+![Screenshot 2023-12-29 185029](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/3553340d-0840-4c94-8c4e-c53791829860)
+![Screenshot 2023-12-29 185011](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/cc317c9c-1ea9-4609-8bc9-02b9f792899d)
+
+![Screenshot 2023-12-29 185029](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/5d70aa5c-d967-49f3-ba1c-db4973e74fe1)
+![Screenshot 2023-12-29 185011](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/7331577c-d2dc-46fc-b621-c856907fb72f)
+![Screenshot 2023-12-29 184937](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/4bc6113a-2e85-4685-8a54-b76396160e10)
+![Screenshot 2023-12-29 185029](https://github.com/shreeyamo2003/Shreeya-Mohanty/assets/118057275/27786461-69c6-4fd3-ac8c-05a0032668be)
 
 
