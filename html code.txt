@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" integrity="sha512-DTOQO9RWCH3ppGqcWaEA1BIZOC6xxalwEsw9c2QQeAIftl+Vegovlnee1c9QX4TctnWMn13TZye+giMm8e2LwA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+      <div class="navbar">
+        <div class="nav-logo border">
+            <div class="logo">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9ip4jL2H4Kc1bvONk5brd1U6LzE3Hoi4U04uvZb8VA&s">
+            </div>                
+        </div>
+        <div class="nav-address border">
+            <p class="add-first">Deliver to</p>
+            <div class="add-icon">
+                <i class="fa-solid fa-location-dot"></i>
+                <p class="add-sec">India</p>
+            </div>
+        </div>
+        <div class="nav-search">
+            <select class="search-select">
+                <option>All</option>
+            </select>
+            <input placeholder="Search Amazon" class="search-input">
+            <div class="search-icon">
+                <i class="fa-solid fa-magnifying-glass"></i>
+            </div>
+            
+        </div>
+       <div class="nav-signin border">
+        <p><span>Hello, Sign in</span></p>
+        <p class="nav-second">Account and Lists</p>
+       </div>
+       <div class="nav-return border">
+        <p><span>Returns</span></p>
+        <p class="nav-second">& Orders</p>
+       </div>
+       <div class="nav-cart border">
+        <i class="fa-solid fa-cart-shopping"></i>
+        Cart
+       </div>
+    </div>
+
+       <div class="panel">
+        <div class="panel-all border">
+            <i class="fa-solid fa-bars"></i>
+            All
+        </div>
+        <div class="panel-ops">
+            <p>Today's Deal</p>
+            <p>Customer Service</p>
+            <p>Registry</p>
+            <p>Gift Cards</p>
+            <p>Sell</p>
+        </div>
+        <div class="panel-deals border">
+            Shop deals in Electronics
+        </div>
+        </div>
+    </header>
+    <div class="hero-section">
+        <div class="hero-msg">
+            <p>You are on amazon.com. You can also shop on Amazon India for millions of products with fast local delivery.<a> Click here to go to amazon.in</a>
+            </p>
+        </div>
+        <img src="https://m.media-amazon.com/images/W/MEDIAX_792452-T2/images/I/61GfWyQax7L._SX3000_.jpg">
+    </div>
+
+    <div class="shop-section">
+        <div class="box1 box">
+            <h2>Health & Personal Care</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v10._SY304_CB573698005_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Gaming accessories</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AmazonExports/Fuji/2021/June/Fuji_Quad_Chair_1x._SY116_CB667159060_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Fashion Trends</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AMAZON_FASHION/2023/LuxuryStores/Spring-23/GW/Quad_Cards/Spring/LSS23_SPRING_DT_CAT_CARD_4_x1._SY116_CB595261253_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Refresh space</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/launchpad/2023/Gateway/January/DesktopQuadCat_186x116_kitchen_B0126LMDFK_01.23._SY116_CB619238939_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Home Decor</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v6._SY304_CB573698005_.jpg">
+
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Toys under Rs500</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v3._SY304_CB573698005_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Deals in PCs</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v1._SY304_CB573698005_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+        <div class="box1 box">
+            <h2>Shoes</h2>
+            <div class="box-img">
+                <img src="https://images-na.ssl-images-amazon.com/images/W/MEDIAX_792452-T2/images/G/01/AmazonExports/Events/2023/EBF23/Fuji_Desktop_Single_image_EBF_1x_v8._SY304_CB573698005_.jpg">
+            </div>
+            <p>See More</p>
+        </div>
+    </div>
+    <footer>
+        <div class="foot-panel1">
+            Back to top
+        </div>
+        <div class="foot-panel2">
+            <ul>
+                <p>Get to Know Us</p>
+                <a>Careers</a>
+                <a>Blog</a>
+                <a>About Amazon</a>
+                <a>Investor Relations</a>
+                <a>Amazon Devices</a>
+                <a> Amazon Science</a>                 
+            </ul>
+            <ul> 
+                <p>Make Money with Us</p>
+<a>Sell products on Amazon</a>
+<a>Sell on Amazon Business</a>
+<a>Sell apps on Amazon</a>
+<a>Become an Affiliate</a>
+<a>Advertise Your Products</a>
+<a>Self-Publish with Us</a>
+<a>Host an Amazon Hub </a>             
+            </ul>
+            <ul>
+                <p>Get to Know Us</p>
+                <a>Careers</a>
+                <a>Blog</a>
+                <a>About Amazon</a>
+                <a>Investor Relations</a>
+                <a>Amazon Devices</a>
+                <a> Amazon Science</a>                 
+            </ul>
+            <ul>
+                <p>Make Money with Us</p>
+                <a>Sell products on Amazon</a>
+                <a>Sell on Amazon Business</a>
+                <a>Sell apps on Amazon</a>
+                <a>Become an Affiliate</a>
+                <a>Advertise Your Products</a>
+                <a>Self-Publish with Us</a>
+                <a>Host an Amazon Hub </a>                
+            </ul>
+        </div>
+        <div class="foot-panel3">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST9ip4jL2H4Kc1bvONk5brd1U6LzE3Hoi4U04uvZb8VA&s">
+        </div>
+
+        <div class="foot-panel4">
+            <div class="pages">
+                <a>Conditions of Use</a>
+                <a>&nbsp;&nbsp;Privacy Notice</a>
+                <a>&nbsp;&nbsp;Your Ads Privacy Choices</a>
+            </div>
+            <div class="copyright">
+                © 1996-2023, Amazon.com, Inc. or its affiliates 
+            </div>
+        </div>
+    </footer>
+</body>
+</html>
